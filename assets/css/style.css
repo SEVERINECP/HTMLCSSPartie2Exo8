@@ -1,0 +1,52 @@
+.box{
+    display: flex;
+    width: 80%;
+    height: 20px;
+     }
+      .rectangle1{
+        flex-direction: row;
+        width:70%;
+        height: 20px;
+        background-color: #76DE91;
+      }
+      .rectangle2{
+        flex-direction: row;
+        width: 10%;
+        height: 20px;
+        background-color: #767EDE;
+      }
+.box1{
+    display: flex;
+    width: 80%;
+    height: 40px;
+    }
+.box2{
+      .rectangle3big{
+        flex-direction: column;
+        justify-content: flex-start;
+        width: 20%;
+        height: 40px;
+        background-color: #EF4444;
+        }
+     }
+.box2b{
+  .box3{
+       .rectangle3.1{
+        flex-direction: column;
+        justify-content: center;
+        width: 20%;
+        height: 20px;
+        background-color: #F19E34;
+        }
+        .rectangle3.2{
+        flex-direction: column;
+        justify-content:flex-end;
+        width: 20%;
+        height: 20px;
+        background-color: #C2BFBF;
+        }
+       }
+      }
+.box4{
+
+}
